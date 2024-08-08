@@ -1,0 +1,48 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>Latihan</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class="container"></div>
+        <div class="header">
+            <h1 class="judul">Manfaat Membaca Buku</h1>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+        </div>
+        <div class="hero">
+            <div class="contant">
+                <h2>Manfaat Membaca Buku Bagi Kesehatan Diri Sendiri</h2>
+                <p class="Penulis">Ditulis Oleh <a href="#">VIRTEX </a>Pada 25 Juli 2024</p>
+
+                <p>Ada banyak manfaat membaca buku yang bisa kamu rasakan, khususnya bagi kesehatan mental. Berikut ini manfaat membaca buku bagi kesehatan mental:</p>
+                <h3>1.  Menurunkan Tingkat Stres</h3>
+                <p>Membaca menjadi salah satu kegiatan yang bisa kamu lakukan saat penat atau bosan. Sebab, membaca buku efektif dalam menurunkan tingkat stres</p>
+                <p>Bahkan, saat kamu membaca buku kegemaranmu, kebiasaan ini bisa membantu kamu menjadi lebih rileks dan menurunkan perasaan sedih atau cemas yang sedang kamu rasakan. Dengan membaca buku, kamu bisa melepaskan penat akibat pikiran yang sejenak menikmati bacaan yang kamu baca.</p>
+                <p>Pelarian imajinasi yang kamu alami ini membuatmu teralihkan dari stres yang kamu alami secara sementara.</p>
+
+                <h3>2. Melatih Fokus Dan Perhatian</h3>
+                <p>Dengan membaca, fokus dan perhatian kamu akan menjadi lebih baik. Dengan fokus pada salah satu kegiatan, kamu bisa membuat tubuh dan pikiran menjadi lebih rileks. </p>
+                <p>Hal ini juga berkaitan dengan kemampuan melepaskan rasa khawatir terhadap kondisi yang sedang kamu alami.</p>
+
+                <h3>3. Mencegah Depresi</h3>
+                <p>Dengan mengatasi stres yang kamu rasakan, tentunya kamu menurunkan risiko mengalami depresi atau stres yang lebih buruk. Carilah berbagai jenis buku kesukaan kamu agar kamu bisa merasakan manfaat membaca buku untuk kesehatan mental.</p>
+                <h3>4. Meningkatkan Kualitas Tidur</h3>
+                <p>Daripada bermain gadget sebelum tidur, lebih baik lakukan kebiasaan membaca buku. Membaca buku sebelum tidur bisa meningkatkan kualitas tidur. </p>
+                <p>Pastikan kamu membaca buku dalam bentuk cetak, bukan dari gadget. Hindari juga membaca buku diatas tempat tidur, agar manfaatnya bisa kamu rasakan dengan baik.</p>
+                <h3>5. Membuatmu Memiliki Umur Lebih Panjang</h3>
+                <p>kelompok orang yang gemar membaca buku ternyata memiliki usia lebih panjang dua tahun dibandingkan mereka yang tidak membaca buku. </p>
+                <p>Selain itu, kelompok yang membaca buku selama 3,5 jam setiap harinya memiliki hidup lebih panjang dan sehat dibandingkan mereka yang tidak suka membaca buku. </p>
+                <p>Meskipun begitu, kamu juga harus melakukan gaya hidup sehat dan mengonsumsi berbagai makanan sehat untuk menjaga kesehatan lebih baik.</p>
+
+        </div>
+        <div class="footer">
+            <p class="copy"> VIRTEX, 2024. Done</p>
+        </div>
+    </body>
+</html>
